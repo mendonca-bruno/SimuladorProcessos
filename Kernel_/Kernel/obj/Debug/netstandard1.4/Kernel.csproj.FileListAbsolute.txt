@@ -1,0 +1,4 @@
+F:\Software Dev\Facul\S.O.(s)\O.S. simulator\Kernel\Kernel\bin\Debug\netstandard1.4\Kernel.deps.json
+F:\Software Dev\Facul\S.O.(s)\O.S. simulator\Kernel\Kernel\obj\Debug\netstandard1.4\Kernel.csprojAssemblyReference.cache
+F:\Software Dev\Facul\S.O.(s)\O.S. simulator\Kernel\Kernel\obj\Debug\netstandard1.4\Kernel.csproj.CoreCompileInputs.cache
+F:\Software Dev\Facul\S.O.(s)\O.S. simulator\Kernel\Kernel\obj\Debug\netstandard1.4\Kernel.AssemblyInfo.cs
